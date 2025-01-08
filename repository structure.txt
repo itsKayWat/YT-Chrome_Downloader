@@ -1,0 +1,18 @@
+YT-Chrome_Downloader/
+├── README.md
+├── LICENSE
+├── extension/
+│   ├── manifest.json
+│   ├── background.js
+│   ├── content.js
+│   ├── content.css
+│   ├── sidepanel.html
+│   ├── sidepanel.js
+│   └── icons/
+│       ├── icon16.png
+│       ├── icon48.png
+│       └── icon128.png
+└── docs/
+    ├── INSTALLATION.md
+    ├── USAGE.md
+    └── CONTRIBUTING.md

@@ -1,0 +1,15 @@
+
+    #yt-download-btn {
+        opacity: 0.9;
+        transition: opacity 0.2s;
+        cursor: pointer;
+    }
+    
+    #yt-download-btn:hover {
+        opacity: 1;
+    }
+    
+    #yt-download-btn svg {
+        fill: #ff0000;
+    }
+    
